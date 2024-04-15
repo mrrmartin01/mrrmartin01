@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Theophilus Martin</h1>
-<h3 align="center">A passionate frontend developer from Ghana</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=mrrmartin01&label=Profile%20views&color=0e75b6&style=flat"
-        alt="mrrmartin01" /> </p>
 
 - 🌱 I’m currently learning **react**
 
