@@ -13,9 +13,9 @@
     <a href="https://dev.to/mrrmartin01" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
             alt="mrrmartin01" height="30" width="40" /></a>
-    <a href="https://twitter.com/mrrmartin001" target="blank"><img align="center"
+    <a href="https://x.com/mrrmartin01?s=21" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="mrrmartin001" height="30" width="40" /></a>
+            alt="mrrmartin01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
