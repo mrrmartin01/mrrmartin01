@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer</h3>
 
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **C#**
 
 - 👯 I’m looking to collaborate on **a Saas project**
 
