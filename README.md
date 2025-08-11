@@ -1,5 +1,4 @@
 # Theophilus Martin
-## Dark-themed fella
 
 - **Learning**: C#, Microservices with Nest.js, Docker
 - **Interests**: Building scalable applications with TypeScript and ASP.NET
